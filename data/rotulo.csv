@@ -1,0 +1,38 @@
+namespace,rotulo,abreviacao,Descrição
+server,cte,CT-e,?
+server,efinanc,,?
+server,fazenda,,Miniestério da Fazenda
+server,mdfe,,?
+server,nfce,NFC-e,Nota Fiscal de Consumidor Eletrônica
+server,nfe,NF-e,Nota Fiscal Eletrônica
+server,receita.fazenda,,"Receita Federal, Ministério da Fazenda"
+server,sefaz,SeFaz,Secretaria (do Estado) da Fazenda
+server,sefazrs,SeFaz-RS,Secretaria (do Estado de RS) da Fazenda
+server,svrs,,?
+geo,ac,AC,Acre
+geo,al,AL,Alagoas
+geo,am,AM,Amazonas
+geo,ap,AP,Amapá
+geo,ba,BA,Bahia
+geo,ce,CE,Ceará
+geo,df,DF,Distrito Federal
+geo,es,ES,Espírito Santo
+geo,go,GO,Goiás
+geo,ma,MA,Maranhão
+geo,mg,MG,Minas Gerais
+geo,ms,MS,Mato Grosso do Sul
+geo,mt,MT,Mato Grosso
+geo,pa,PA,Pará
+geo,pb,PB,Paraíba
+geo,pe,PE,Pernambuco
+geo,pi,PI,Piauí
+geo,pr,PR,Paraná
+geo,rj,RJ,Rio de Janeiro
+geo,rn,RN,Rio Grande do Norte
+geo,ro,RO,Rondônia
+geo,rr,RR,Roraima
+geo,rs,RS,Rio Grande do Sul
+geo,sc,SC,Santa Catarina
+geo,se,SE,Sergipe
+geo,sp,SP,São Paulo
+geo,to,TO,Tocantins
